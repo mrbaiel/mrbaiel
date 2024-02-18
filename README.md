@@ -1,2 +1,2 @@
 Hi, I’m @mrbaiel
-I am a student in computer science
+I am a back-end developer)
