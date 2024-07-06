@@ -1,6 +1,6 @@
-## About me
+## 🌍 About Me
 
-I'm a third-year student at Siberian Federal University, studying Information Systems and Technologies. I'm passionate about software development and have experience in various technologies and tools.
+Salam! My name is Baiel, and I'm from the beautiful country of Kyrgyzstan. I'm a third-year student at Siberian Federal University, where I study Information Systems and Technologies. My passion lies in software development, and I have hands-on experience with a wide range of technologies and tools. I'm always eager to learn and take on new challenges that push the boundaries of my knowledge and skills.
 
 ## 🔧 Skills
 
@@ -8,7 +8,7 @@ I'm a third-year student at Siberian Federal University, studying Information Sy
 - **Frameworks:** Django
 - **Version Control:** Git & GitHub
 - **Operating Systems:** Linux
-- **API Testing:** Postman
+- **API Testing:** Postman, Swagger
 - **Databases:** PostgreSQL, SQLite
 - **Virtualization:** VirtualBox
 
