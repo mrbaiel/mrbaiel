@@ -4,9 +4,9 @@ Salam! My name is Baiel, and I'm from the beautiful country of Kyrgyzstan. I'm a
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python
-- **Frameworks:** Django
-- **Version Control:** Git & GitHub
+- **Programming Languages:** Python, GO
+- **Frameworks:** Django(DRF), Flask
+- **Version Control:** Git & GitHub, Bitbucket
 - **Operating Systems:** Linux
 - **API Testing:** Postman, Swagger
 - **Databases:** PostgreSQL, SQLite
@@ -16,7 +16,7 @@ Salam! My name is Baiel, and I'm from the beautiful country of Kyrgyzstan. I'm a
 
 - **Siberian Federal University**
   - Faculty of Information Systems and Technologies
-  - Currently in the 3rd year of study
+  - Currently in the 4rd year of study
 
 ## 🌱 What I'm Learning
 
